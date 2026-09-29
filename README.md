@@ -23,7 +23,7 @@ Designed for easy integration into Flutter applications with a simple and flexib
 ## 🎬 Demo
 
 <p align="center">
-  <img src="assets/demo1.gif" width="250" alt="Flutter Custom Calendar 2 Demo">
+  <img src="example2/assets/demo1.gif" width="250" alt="Flutter Custom Calendar 2 Demo">
 </p>
 
 ## 📦 Installation
